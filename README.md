@@ -1,4 +1,4 @@
-🖼️ Image Comparison Web App
+🖼️ Design and Implementation of an Image Similarity and Comparison Web Application
 
 A Computer Vision–powered Flask web application that compares two images using SSIM, ORB Feature Matching, and K-Means Color Clustering to generate a detailed similarity analysis with visual outputs.
 
