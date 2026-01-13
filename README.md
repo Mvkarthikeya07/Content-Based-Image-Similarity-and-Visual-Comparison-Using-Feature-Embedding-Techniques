@@ -1,4 +1,4 @@
-🖼️ Design and Implementation of an Image Similarity and Comparison Web Application
+🖼️ Content-Based Image Similarity and Visual Comparison Using Feature Embedding Techniques
 
 A Computer Vision–powered Flask web application that compares two images using SSIM, ORB Feature Matching, and K-Means Color Clustering to generate a detailed similarity analysis with visual outputs.
 
