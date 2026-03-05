@@ -59,7 +59,7 @@ Instant results dashboard
 Frontend: HTML, CSS (Bootstrap), JavaScript
 Backend: Python, Flask
 Computer Vision: OpenCV, scikit-image, scikit-learn, NumPy
-
+```
 📁 Project Structure
 Image-Comparison-WebApp/
 │
@@ -79,7 +79,7 @@ Image-Comparison-WebApp/
     ├── css/
     ├── js/
     └── outputs/          # Auto-generated results
-
+````
 ⚙️ How It Works
 
 User uploads Image A and Image B
@@ -130,6 +130,7 @@ http://127.0.0.1:5000/
 <img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/a6551acf-70a7-46cc-9884-65344151bf80" />
 
 🧩 Algorithms Used
+
 🔸 SSIM — Structural Similarity
 
 Analyzes: luminance, contrast, structure.
