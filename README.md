@@ -431,7 +431,7 @@ Navigate to `http://127.0.0.1:5000`
 
 ---
 
-## 🏅 Production Provenance & Corporate Endorsement
+## Production Provenance & Corporate Endorsement
 
 <p>
   <img src="https://img.shields.io/badge/Internship-Embsys%20Intelligence-1a1a2e?style=for-the-badge&logo=opencv&logoColor=white" />
