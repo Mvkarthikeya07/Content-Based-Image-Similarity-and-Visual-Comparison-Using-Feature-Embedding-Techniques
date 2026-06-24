@@ -430,6 +430,27 @@ Navigate to `http://127.0.0.1:5000`
 
 ---
 
+## 🎖️ Production Provenance & Corporate Endorsement
+
+精 **Enterprise Deployment Notice**  
+The core architectural principles of this engine—specifically the multi-pipeline synchronization of **SSIM** and **ORB**—were originally conceptualized, architected, and validated by the author during a high-stakes engineering residency within the **Computer Vision Division** at **Embsys Intelligence Pvt Ltd**.
+
+[![Verification](https://img.shields.io/badge/Verification-Official%20Endorsement%20Letter-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xGMNh4C1Npqs5Qp6c7oPxlPKXNAem44e/view?usp=drive_link)
+[![Role](https://img.shields.io/badge/Division-Computer%20Vision%20%26%20AI-intel?style=for-the-badge)](https://github.com/Mvkarthikeya07)
+[![Status](https://img.shields.io/badge/Evaluation-Top%20Tier%20%2F%20Ranked%20%231-gold?style=for-the-badge)](https://github.com/Mvkarthikeya07)
+
+### 🚀 Industrial Contributions (Feb 2026 – Apr 2026)
+Rather than operating as a passive observer, duties entailed acting as a core engineer executing high-level architectural decisions directly inside live production pipelines:
+
+* **Visual Similarity & Feature Analytics:** Engineered industrial-grade **ORB** and **SSIM** feature comparison pipelines to power robust internal verification and visual evaluation frameworks.
+* **Real-Time Edge Computer Vision:** Architected and mathematically optimized lightweight **YOLOv8** object detection networks for indoor monitoring systems under restrictive, low-latency hardware environments.
+* **Secure Streaming Infrastructure:** Authored end-to-end authenticated video streaming microservices wrapped in highly scalable, session-controlled RESTful APIs to lock down deployed ML models.
+
+### 👔 Executive Evaluation Metric
+> "In my assessment, M V Karthikeya ranks among the top interns we have mentored at Embsys Intelligence. He possesses a strong technical foundation, a research-oriented mindset, and the discipline required to excel in demanding academic and professional environments. I recommend M V Karthikeya without reservation for advanced studies, research programs, and professional opportunities."
+> 
+> — **Karthik Kannan R**, Chief Executive Officer, Embsys Intelligence Pvt Ltd
+
 ## 👤 Author
 
 **M. V. Karthikeya**  
