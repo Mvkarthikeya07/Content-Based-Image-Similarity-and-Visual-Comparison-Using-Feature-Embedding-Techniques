@@ -33,7 +33,7 @@
 - [Quick Start](#-quick-start)
 - [Technology Stack](#-technology-stack)
 - [Future Enhancements](#-future-enhancements)
-- [Production Provenance & Corporate Endorsement](#-production-provenance--corporate-endorsement)
+- [Production Provenance & Corporate Endorsement](#production-endorsement)
 - [Author](#-author)
 
 ---
