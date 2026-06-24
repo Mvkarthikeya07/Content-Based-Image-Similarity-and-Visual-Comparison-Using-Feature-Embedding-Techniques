@@ -431,26 +431,34 @@ Navigate to `http://127.0.0.1:5000`
 
 ---
 
-## 🎖️ Production Provenance & Corporate Endorsement
+## 🏅 Industry Validation — Computer Vision Internship
 
-精 **Enterprise Deployment Notice**  
-The core architectural principles of this engine—specifically the multi-pipeline synchronization of **SSIM** and **ORB**—were originally conceptualized, architected, and validated by the author during a high-stakes engineering residency within the **Computer Vision Division** at **Embsys Intelligence Pvt Ltd**.
+<p>
+  <img src="https://img.shields.io/badge/Internship-Embsys%20Intelligence-1a1a2e?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-Computer%20Vision%20%26%20AI%2FML-0f4c75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Duration-Feb%202026%20–%20Apr%202026-3282b8?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Verified%20%26%20Endorsed-2ecc71?style=for-the-badge" />
+</p>
 
-[![Verification](https://img.shields.io/badge/Verification-Official%20Endorsement%20Letter-blue?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1xGMNh4C1Npqs5Qp6c7oPxlPKXNAem44e/view?usp=drive_link)
-[![Role](https://img.shields.io/badge/Division-Computer%20Vision%20%26%20AI-intel?style=for-the-badge)](https://github.com/Mvkarthikeya07)
-[![Status](https://img.shields.io/badge/Evaluation-Top%20Tier%20%2F%20Ranked%20%231-gold?style=for-the-badge)](https://github.com/Mvkarthikeya07)
+This is not a side project built in isolation — it is a direct extension of work proven inside a professional Computer Vision & AI/ML internship at **Embsys Intelligence Pvt Ltd**, where the same architectural philosophy seen in this repository — multi-pipeline fusion, CPU-deployable models, and production-structured systems — was validated under real engineering scrutiny.
 
-### <a name="production-endorsement"></a> 🚀 Industrial Contributions (Feb 2026 – Apr 2026)
-Rather than operating as a passive observer, duties entailed acting as a core engineer executing high-level architectural decisions directly inside live production pipelines:
+> *"Real-Time Object Detection: Architected and optimized YOLOv8-based detection pipelines for real-time indoor monitoring applications... Visual Similarity Analysis: Developed CNN and SSIM-based feature comparison pipelines, enabling robust and reliable visual similarity analysis for internal evaluation systems."*
+> — **Karthik Kannan M**, Chief Executive Officer, Embsys Intelligence Pvt Ltd
 
-* **Visual Similarity & Feature Analytics:** Engineered industrial-grade **ORB** and **SSIM** feature comparison pipelines to power robust internal verification and visual evaluation frameworks.
-* **Real-Time Edge Computer Vision:** Architected and mathematically optimized lightweight **YOLOv8** object detection networks for indoor monitoring systems under restrictive, low-latency hardware environments.
-* **Secure Streaming Infrastructure:** Authored end-to-end authenticated video streaming microservices wrapped in highly scalable, session-controlled RESTful APIs to lock down deployed ML models.
+During this tenure, the underlying competencies that built **this** project — SSIM-based structural comparison, feature-level correspondence, and CPU-only deployability — were not classroom exercises. They were production engineering, independently designed, deployed, and **formally endorsed at the CEO level** for technical depth, architectural maturity, and reliability under deployment.
 
-### 👔 Executive Evaluation Metric
-> "In my assessment, M V Karthikeya ranks among the top interns we have mentored at Embsys Intelligence. He possesses a strong technical foundation, a research-oriented mindset, and the discipline required to excel in demanding academic and professional environments. I recommend M V Karthikeya without reservation for advanced studies, research programs, and professional opportunities."
-> 
-> — **Karthik Kannan R**, Chief Executive Officer, Embsys Intelligence Pvt Ltd
+### Why this matters
+
+| Signal | What It Proves |
+|---|---|
+| 🎯 **Direct domain overlap** | The internship's visual similarity work and this repository's SSIM/ORB/K-Means fusion engine are built on the same foundational discipline — not a coincidence, a continuum |
+| 🏢 **CEO-level endorsement** | Technical credibility validated not by a manager, but by the company's chief executive, in writing |
+| ⚙️ **Production-grade scrutiny** | Real-time YOLOv8 pipelines and RESTful API integration under live deployment constraints — far beyond academic prototyping |
+| 🧠 **Engineering ownership** | Cited explicitly for *clarity of thought*, *quick grasp of complex requirements*, and the ability to "evolve into a strong technology leader" |
+
+📄 **Official Internship Completion & Technical Endorsement Letter:** *[https://drive.google.com/file/d/1xGMNh4C1Npqs5Qp6c7oPxlPKXNAem44e/view?usp=drive_link]*
+
+<sub>This repository should be read as a continuation of demonstrated, third-party-verified Computer Vision engineering capability — not as an isolated academic submission.</sub>
 
 ## 👤 Author
 
