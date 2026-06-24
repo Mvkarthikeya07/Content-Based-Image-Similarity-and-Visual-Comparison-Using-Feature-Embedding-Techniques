@@ -440,7 +440,7 @@ The core architectural principles of this engine—specifically the multi-pipeli
 [![Role](https://img.shields.io/badge/Division-Computer%20Vision%20%26%20AI-intel?style=for-the-badge)](https://github.com/Mvkarthikeya07)
 [![Status](https://img.shields.io/badge/Evaluation-Top%20Tier%20%2F%20Ranked%20%231-gold?style=for-the-badge)](https://github.com/Mvkarthikeya07)
 
-### 🚀 Industrial Contributions (Feb 2026 – Apr 2026)
+### <a name="production-endorsement"></a> 🚀 Industrial Contributions (Feb 2026 – Apr 2026)
 Rather than operating as a passive observer, duties entailed acting as a core engineer executing high-level architectural decisions directly inside live production pipelines:
 
 * **Visual Similarity & Feature Analytics:** Engineered industrial-grade **ORB** and **SSIM** feature comparison pipelines to power robust internal verification and visual evaluation frameworks.
