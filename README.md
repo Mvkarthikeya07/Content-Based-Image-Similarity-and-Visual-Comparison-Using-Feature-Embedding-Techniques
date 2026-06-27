@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🖼️ Visual Similarity Engine</h1>
+<h1>🖼️ Content Based Image Similarity and Visual Comparison Using Feature Embedding Techniques</h1>
 <h3>Content-Based Image Comparison Using SSIM · ORB · K-Means Feature Embedding</h3>
 
 <p>
